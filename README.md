@@ -2,9 +2,6 @@
 
 Free landing page template built using Nuxt 2 and Tailwindcss 3
 
-> [LIVE DEMO](https://nefa.vercel.app/)
-
-![Thumbnail](assets/img/thumbnail.jpg)
 
 ## Project Structure
 
@@ -46,5 +43,3 @@ $ yarn generate
 
 Use it for learn, but please don’t republish, redistribute, or resell the template.
 
-Code by [rsurya99](https://github.com/rsurya99)  
-UI/UX by [irvanmoses](https://www.facebook.com/irvan.moses)
