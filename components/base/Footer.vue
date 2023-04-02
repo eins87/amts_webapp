@@ -63,10 +63,14 @@
       </div>
     </div>
     <div class="py-8 sm:py-4 text-center text-sm text-[#666666] hover:text-gray-900">
-      &copy; Copyright 2022 NEFA LLC. All rights reserved
+      &copy; Copyright 2023 PT. AMIDO MAKMOR TULUS SEJATI.
     </div>
+    <div class="py-8 sm:py-4 text-center text-sm text-[#666666] hover:text-gray-900">
+      Made with <span class="text-red-500">&hearts;</span> by <a href="https://www.linkedin/in/andiwinata87" class="text-blue-500">Andi Winata</a>
+    </div> 
   </footer>
 </template>
+
 <script>
 export default {
   name: 'BaseFooter',

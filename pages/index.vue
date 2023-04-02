@@ -491,6 +491,7 @@ export default {
   },
 }
 </script>
+
 <style scoped>
 .text-header-gradient {
   background: rgb(57, 132, 244);

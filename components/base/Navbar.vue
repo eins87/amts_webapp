@@ -63,6 +63,7 @@
     </div>
   </nav>
 </template>
+
 <script>
 export default {
   name: 'BaseNavbar',

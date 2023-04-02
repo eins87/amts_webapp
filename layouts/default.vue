@@ -45,6 +45,7 @@ export default {
 }
 .text-gradient {
   -webkit-background-clip: text;
+  background-clip: text-gradient;
   -webkit-text-fill-color: transparent;
 }
 
