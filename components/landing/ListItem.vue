@@ -7,6 +7,7 @@
     <slot></slot>
   </li>
 </template>
+
 <script>
 export default {
   name: 'LandingListItem',

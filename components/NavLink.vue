@@ -8,6 +8,7 @@
     </a>
   </li>
 </template>
+
 <script>
 export default {
   props: {

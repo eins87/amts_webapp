@@ -11,15 +11,10 @@
             <CloseIcon v-else :size="24" />
           </button>
         </div>
-        <ul
-          :class="[open ? 'flex' : 'hidden lg:flex']"
-          class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
-        >
-          <NavLink name="Cryptocurrency" url="#" />
-          <NavLink name="Exchanges" url="#" />
-          <NavLink name="Watchlist" url="#" />
-          <NavLink name="NFT" url="#" />
-          <NavLink name="Portfolio" url="#" />
+        <ul :class="[open ? 'flex' : 'hidden lg:flex']" class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0">
+          <NavLink name="Home" url="#" />
+          <NavLink name="Business" url="#" />
+          <NavLink name="Solutions" url="#" />
           <li class="relative group">
             <button
               class="md:px-4 py-2 text-sm bg-transparent rounded-lg text-[#666666] hover:text-gray-900 focus:outline-none focus:shadow-outline flex items-center"
