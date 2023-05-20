@@ -7,7 +7,7 @@ Halaman depan website akan memberikan gambaran singkat tentang perusahaan, visi 
 
 ## Setup
 
-Make sure to install the dependencies:
+pastikan install semua dependencies:
 
 ```bash
 # yarn
@@ -42,4 +42,6 @@ Locally preview production build:
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Contact
+
+
